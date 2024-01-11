@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-image: url('seu-fundo.jpg'); /* Substitua pelo caminho do seu fundo */
+    background-size: cover;
+    filter: blur(5px); /* Adiciona blur ao fundo */
+}
+
+.container {
+    text-align: center;
+    padding: 50px;
+    color: #fff;
+}
